@@ -1,0 +1,12 @@
+GET http://localhost:3001/usernames
+
+###
+
+POST http://localhost:3001/usernames
+
+###
+
+DELETE http://localhost:3001/usernames/5
+
+###
+

@@ -1,0 +1,18 @@
+{
+  "userNames": [
+    {
+      "idUser": "1",
+      "name": "Son ",
+      "age": "21",
+      "mail": "son@gmail.com",
+      "id": 1
+    },
+    {
+      "idUser": "2",
+      "name": "Ngoc xinh dep",
+      "age": "21",
+      "mail": "ngngoc172@gmail.com",
+      "id": 2
+    }
+  ]
+}
